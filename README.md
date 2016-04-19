@@ -51,9 +51,7 @@ Failing to follow the community guidelines as described in this document carries
 * Jason Stiebs - @jason.stiebs
 * Nick Gartmann - @nickgratmann
 * Kate Pociask - @kjpociask
-* Greg Meier - @greg
-* Jacob Robers - @jake.robers
-* Josh Holts - @josh.holtz
+* Josh HoltZ - @josh.holtz
 * Mitchell Henke - @mitch
 * Tony Gemoll - @tony.gemoll
 
