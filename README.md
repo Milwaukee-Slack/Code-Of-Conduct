@@ -48,7 +48,6 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current moderators and their Slack IDs:**
 
-* Jason Stiebs - @jason.stiebs
 * Nick Gartmann - @nickgartmann
 * Kate Pociask - @kjpociask
 * Josh Holtz - @josh.holtz
